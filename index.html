@@ -389,7 +389,7 @@
                     achieve user interaction</li>
                 <li>Created organization signup pages, converting the UI Designs to Webpages using HTML, Bootstrap<br>
                     and Less and Angular.js</li>
-                <li> Worked in PHP for some backend tasks and database creation and Integrations</li>
+                <li>Used Sketch and Adobe Illustrator to Design mobile and Website Screens.</li>
             </ul>
         </div>
     </div>
