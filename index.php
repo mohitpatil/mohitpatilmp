@@ -29,6 +29,29 @@
 
 <body>
 <!-- Header -->
+<!--<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+
+        &lt;!&ndash; Modal content&ndash;&gt;
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Modal Header</h4>
+            </div>
+            <div class="modal-body">
+                <div>
+                    <script type="text/javascript" src="https://form.jotform.com/jsform/63480692582161"></script>
+                </div>
+            </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>-->
+
 <div class="header" id="agilehome">
     <img src="images/header.jpg" alt="Main Header Image">
     <h1>MOHIT PATIL</h1>
@@ -152,7 +175,7 @@
                     <li>
                         <div class="li1">Current</div>
                         <div class="li2">:</div>
-                        <div class="li3">Front End Developer @Helios and Matheson</div>
+                        <div class="li3">Front End Developer</div>
                         <div class="clearfix"></div>
                     </li>
                     <li>
@@ -198,6 +221,7 @@
                     <li class="active"><a data-toggle="tab" href="#home">Skills</a></li>
                     <li><a data-toggle="tab" href="#menu1">Database</a></li>
                     <li><a data-toggle="tab" href="#menu2">Tools</a></li>
+                    <li><a data-toggle="tab" href="#menu3">UX Design</a></li>
                 </ul>
 
                 <div class="tab-content explain">
@@ -212,6 +236,7 @@
                             <li>JSON</li>
                             <li>Bootstrap</li>
                             <li>Angular</li>
+                            <li>AJAX</li>
                             <li>Angular Formly</li>
                             <li>Node.js</li>
                             <li>React.js</li>
@@ -239,11 +264,18 @@
                             <li>Webstorm</li>
                             <li>Brackets</li>
                             <li>Eclipse IDE</li>
+                            <li>Sketch</li>
+                            <li>InVision</li>
                         </ul>
                     </div>
                     <div id="menu3" class="tab-pane fade">
-                        <h3>Menu 3</h3>
-                        <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                        <ul class="col-md-5 col-md-offset-1">
+                            <p></p>
+                            <li>Sketch</li>
+                            <li>InVision</li>
+                            <li>Adobe Illustrator</li>
+                            <li>Adobe Photoshop</li>
+                        </ul>
                     </div>
                 </div>
 
@@ -275,26 +307,25 @@
     <hr />
     <div class="container col-md-12">
         <div class="col-md-3 col-sm-3">
-            <h4 class="company-name"><strong>Helios and Matheson</strong><br> ( <i class="fa fa-map-marker"  aria-hidden="true"> San Jose, CA</i> )</h4>
+            <h4 class="company-name"><strong>Terafina Inc.</strong><br> ( <i class="fa fa-map-marker"  aria-hidden="true"> San Jose, CA</i> )</h4>
             <h5>August 2016 - Present</h5>
             <h5 class="role">Front End Developer</h5>
         </div>
 
         <div class="col-md-9 col-sm-9 explain">
-            <p class="project-name">Project : Status Portal &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <span>Client : Terafina Inc.</span>
-            </p>
+            <p class="project-name">Project : Status Portal</p>
             <ul class="resume-details container">
-                <li>Developing and Designing Web Application for Terafina Inc in Agile Cycle</li>
-                <li>Developed application pages using Angular js, Angular Formly and JSON</li>
-                <li>Developed Data Driven Application using HTML5/CSS3/jQuery based templates and
-                    integrated With Salesforce
-                </li>
+                <li>Developed views and templates with Angular Js and Bootstrap to create a user-friendly website interface.</li>
+                <li>Worked with the team using Angular Formly, Bootstrap UI and HTML5 to Create Webpages.</li>
+                <li>Leveraged CSS Bootstrap for the development of Web applications.</li>
+                <li>Using Grunt to build the project and build different Js files and LESS files.</li>
+                <li>Using Angular Js and apex classes to fetch data from Salesforce using AJAX calls.</li>
+                <li>In final Sprint doing bug fixes and Completing tasks based on Jira Priority.</li>
+                <li>Implementing Security for Two Factor authentication using Email and Twillo for Mobile.</li>
             </ul>
 
 
-            <p class="project-name">Project : Digital Sales Platform &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span>Client : Terafina Inc.</span></p>
+            <p class="project-name">Project : Digital Sales Platform</p>
             <ul class="resume-details container">
                 <li>Developing Web Application for Terafina Inc</li>
                 <li>Worked in Agile Development Cycle</li>
@@ -306,17 +337,16 @@
                 <li>Created SPA using Angular.js and Angular Formly Framework and Bootstrap-based responsive design;<br>
                     helped team in integrating with Salesforce backend using JavaScript Remoting
                 </li>
-                <li>Have Fixing Bug in the current page which was in the priority list for the sprint</li>
+                <li>Have Fixing Bug in the current application based on Jira Priority.</li>
             </ul>
 
 
             <p class="project-name">Project : Employee Onboard </p>
             <ul class="resume-details container">
-                <li>Active team member to Develop Web Dashboard Product for HMNY’s Internal Hiring Process</li>
                 <li>Worked on Angular JS, HTML, CSS, Bootstrap UI and JavaScript for front End</li>
-                <li>Developed Agent and Customer pages using Angular js, Angular Formly and JSON</li>
-                <li>Modularized CSS code using LESS</li>
-                <li>Have Fixing Bug in the current page which was in the priority list for the sprint</li>
+                <li>Created Wireframes and Mockup for Application using Adobe Illustrator and Invision.</li>
+                <li>Used Best practices to make it Responsive and functional on Mobile Devices.</li>
+                <li>Integrated with different APIâ€™s like LinkedIn to Fetch Data and save it into Portal for Future Employees.</li>
             </ul>
         </div>
     </div>
@@ -368,8 +398,8 @@
     <div class="container col-md-12 explain" >
         <div class="col-md-3 col-sm-3">
             <h4 class="company-name"><strong>Amshoft Inc.</strong> <br/> ( <i class="fa fa-map-marker"  aria-hidden="true"> Pune, India</i> ) </h4>
-            <h5>May 2016 - June 2016</h5>
-            <h5 class="role">UI/UX Developer</h5>
+            <h5>Sep 2013 - May 2015</h5>
+            <h5 class="role">Software Engineer</h5>
         </div>
 
         <div class="col-md-9 col-sm-9">
@@ -436,7 +466,7 @@
             <h4 class="company-name"><strong>FALLARM : Android App</strong> <br/> ( <i class="fa fa-map-marker"  aria-hidden="true"> Fremont, CA</i> ) </h4>
             <h5>March 2016</h5>
             <li>Fallarm is Android App monitoring the movement and motion of Device that enables care
-                providers for remote management of patient’s movements </li>
+                providers for remote management of patientâ€™s movements </li>
             <li>The movement and Motion tracking is implemented by Using Sensors(Acceleration,Orientation,Geolocation),Socket Programming,Machine Learning-kNN algorithm</li>
             <li>Created Databases using SQL which is the Database for static purpose</li>
         </div>
@@ -474,10 +504,10 @@
     <div class="container">
 
         <h3>Connect With me Here....</h3>
-        <ul class="top-links col-md-12">
+        <ul class="top-links col-md-9 col-md-offset-3">
             <li class="col-md-2 col-md-offset-1"><a href="https://github.com/mohitpatil"><i class="fa fa-github fa-4x"></i></a></li>
-            <li class="col-md-2"><a href="https://www.facebook.com/mohitpatilmp"><i class="fa fa-facebook fa-4x"></i></a></li>
-            <li class="col-md-2"><a href="https://twitter.com/mohitpatilmp"><i class="fa fa-twitter fa-4x"></i></a></li>
+            <!--<li class="col-md-2"><a href="https://www.facebook.com/mohitpatilmp"><i class="fa fa-facebook fa-4x"></i></a></li>
+            <li class="col-md-2"><a href="https://twitter.com/mohitpatilmp"><i class="fa fa-twitter fa-4x"></i></a></li>-->
             <li class="col-md-2"><a href="https://www.linkedin.com/in/mohit-patil-351865b4"><i class="fa fa-linkedin fa-4x"></i></a></li>
             <li class="col-md-2"><a href="https://www.instagram.com/mohit__patil/"><i class="fa fa-instagram fa-4x"></i></a></li>
         </ul>
@@ -491,22 +521,12 @@
 
         <h3 class="contactme">CONTACT ME</h3>
         <script type="text/javascript" src="https://form.jotform.com/jsform/63480692582161"></script>
-<!--        <div class="col-md-6 col-md-offset-4">
-        <a id="foxyform_embed_link_837003" href="http://www.foxyform.com/">foxyform</a>
-        <script type="text/javascript">
-            (function(d, t){
-                var g = d.createElement(t),
-                        s = d.getElementsByTagName(t)[0];
-                g.src = "http://www.foxyform.com/js.php?id=837003&sec_hash=b35f3a52669&width=350px";
-                s.parentNode.insertBefore(g, s);
-            }(document, "script"));
-        </script>-->
         </div>
     </div>
 </div>
 
 <div class="footer">
-    <p class="text-danger text-center">© All Rights Reserved | Design by <strong>MOHIT PATIL</strong> <span class="pull-right">Referred from Different Sources</span></p>
+    <p class="text-danger text-center">Â© All Rights Reserved | Design by <strong>MOHIT PATIL</strong> <span class="pull-right">Referred from Different Sources</span></p>
 </div>
 <!-- Default-JavaScript -->
 <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
@@ -514,5 +534,12 @@
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
 <!-- Progressive-Bars-JavaScript -->
 <script src="js/bars.js"></script>
+<!--
+<script type="text/javascript">
+    $(window).load(function(){
+        $('#myModal').modal('show');
+    });
+</script>
+-->
 </body>
 </html>
