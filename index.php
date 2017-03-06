@@ -502,11 +502,11 @@
 
         <h3>Connect With me Here....</h3>
         <ul class="top-links col-md-9 col-md-offset-3">
-            <li class="col-md-2 col-md-offset-1"><a href="https://github.com/mohitpatil"><i class="fa fa-github fa-4x"></i></a></li>
+            <li class="col-md-2 col-md-offset-1"><a href="https://github.com/mohitpatil" target="_blank"><i class="fa fa-github fa-4x"></i></a></li>
             <!--<li class="col-md-2"><a href="https://www.facebook.com/mohitpatilmp"><i class="fa fa-facebook fa-4x"></i></a></li>
             <li class="col-md-2"><a href="https://twitter.com/mohitpatilmp"><i class="fa fa-twitter fa-4x"></i></a></li>-->
-            <li class="col-md-2"><a href="https://www.linkedin.com/in/mohit-patil-351865b4"><i class="fa fa-linkedin fa-4x"></i></a></li>
-            <li class="col-md-2"><a href="https://www.instagram.com/mohit__patil/"><i class="fa fa-instagram fa-4x"></i></a></li>
+            <li class="col-md-2"><a href="https://www.linkedin.com/in/mohit-patil-351865b4" target="_blank"><i class="fa fa-linkedin fa-4x"></i></a></li>
+            <li class="col-md-2"><a href="https://www.instagram.com/mohit__patil/" target="_blank"><i class="fa fa-instagram fa-4x"></i></a></li>
         </ul>
 
 
