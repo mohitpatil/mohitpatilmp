@@ -286,14 +286,14 @@
 
                 <div class="bar_group">
                     <div class='bar_group__bar thin' label='Angular.js' show_values='true' tooltip='true'
-                         value='75'></div>
+                         value='85'></div>
                     <div class='bar_group__bar thin' label='Angular Formly' show_values='true' tooltip='true'
-                         value='78'></div>
-                    <div class='bar_group__bar thin' label='Javascript' show_values='true' tooltip='true'
                          value='80'></div>
-                    <div class='bar_group__bar thin' label='UI Bootstrap' show_values='true' tooltip='true'
-                         value='86'></div>
-                    <div class='bar_group__bar thin' label='JQuery' show_values='true' tooltip='true' value='85'></div>
+                    <div class='bar_group__bar thin' label='Javascript' show_values='true' tooltip='true'
+                         value='88'></div>
+                    <div class='bar_group__bar thin' label='Node.js' show_values='true' tooltip='true'
+                         value='83'></div>
+                    <div class='bar_group__bar thin' label='JQuery' show_values='true' tooltip='true' value='88'></div>
                 </div>
             </div>
         </div>
@@ -344,7 +344,7 @@
             <p class="project-name">Project : Employee Onboard </p>
             <ul class="resume-details container">
                 <li>Worked on Angular JS, HTML, CSS, Bootstrap UI and JavaScript for front End</li>
-                <li>Created Wireframes and Mockup for Application using Adobe Illustrator and Invision.</li>
+                <li>Designed and developed Node.js based JavaScript application</li>
                 <li>Used Best practices to make it Responsive and functional on Mobile Devices.</li>
                 <li>Integrated with different API’s like LinkedIn to Fetch Data and save it into Portal for Future Employees.</li>
             </ul>
@@ -360,16 +360,15 @@
         </div>
 
         <div class="col-md-9 col-sm-9">
-            <p class="project-name">Project : Fiskkit.com </p>
             <ul class="resume-details container">
-                <li>Created mockups and wireframes for Fiskkit.com</li>
                 <li>Involved in Creating Application used HTML, CSS, AngularJS, jQuery and Bootstrap to<br>
                     achieve user interaction
                 </li>
                 <li>Created organization signup pages, converting the UI Designs to Webpages using HTML, Bootstrap<br>
-                    and Less and Angular.js
-                </li>
-                <li> Worked in PHP for some backend tasks and database creation and Integrations</li>
+                    and Less and Angular.js</li>
+                <li>Integrated user-facing elements developed in front-end with server side logic using Node js</li>
+                <li>Achieved user authentication and authorization between multiple forms, servers, and environments</li>
+                <li>Worked in PHP for some backend tasks and database creation and Integrations</li>
             </ul>
         </div>
     </div>
@@ -385,11 +384,9 @@
         <div class="col-md-9 col-sm-9">
             <ul class="resume-details container">
                 <li>Created mockups and wireframes for the Mobile App</li>
-                <li>Involved in Creating Application used HTML, CSS, AngularJS, jQuery and Bootstrap to<br>
-                    achieve user interaction</li>
-                <li>Created organization signup pages, converting the UI Designs to Webpages using HTML, Bootstrap<br>
-                    and Less and Angular.js</li>
-                <li>Used Sketch and Adobe Illustrator to Design mobile and Website Screens.</li>
+                <li>Used HTML, CSS, AngularJS, jQuery and Bootstrap to<br>
+                    Design introductionary pages for Garcon.</li>
+                 <li>Used Sketch and Adobe Illustrator to Design mobile and Website Screens.</li>
             </ul>
         </div>
     </div>
@@ -435,7 +432,7 @@
         <div class="col-md-4 col-sm-4">
             <h4 class="company-name"><strong>MSBTE</strong> <br/> ( <i class="fa fa-map-marker"  aria-hidden="true"> Pune, India</i> ) </h4>
             <h5>August 2008 - May 2011</h5>
-            <h5 class="role">Masters of Computer Science</h5>
+            <h5 class="role">Diploma in Computer Technology</h5>
         </div>
     </div>
 
@@ -521,13 +518,14 @@
 
         <h3 class="contactme">CONTACT ME</h3>
         <script type="text/javascript" src="https://form.jotform.com/jsform/63480692582161"></script>
-        </div>
     </div>
+    <h3><a style="color: black" href="#aboutme">Go to Top</a></h3>
 </div>
 
 <div class="footer">
-    <p class="text-danger text-center">© All Rights Reserved | Design by <strong>MOHIT PATIL</strong> <span class="pull-right">Referred from Different Sources</span></p>
+    <p class="text-danger text-center">© All Rights Reserved | Design and Developed by <strong>MOHIT PATIL</strong> <span class="pull-right">Referred from Different Sources</span></p>
 </div>
+
 <!-- Default-JavaScript -->
 <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
 <!-- Bootstrap-JavaScript -->
