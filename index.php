@@ -149,16 +149,15 @@
 
         <div class="aboutme-grids">
             <div class="col-md-4 aboutme-grid aboutme-grid-1">
-                <h3>Who am I.</h3>
-                <p>I'm 24-years old Front-end and Web Developer with Master's Degree in Computer Science, I design and
-                    develop functional, creative, detail and usability oriented Website as well as applications by using
+                <h3>Who am I</h3>
+                <p>Front-end and Web Developer with Master's Degree in Computer Science, I have designed and
+                    developed functional, creative, detail and usability oriented Website as well as applications by using
                     the latest web standards and technologies as the reference. Currently, i'm working in San Jose, CA
                     as a Front End Developer.
                 </p>
                 <br>
-                <p> In the spirit of continual improvement, I like to involve in projects where I can learn something
-                    new and improve my experience, knowledge and skills.
-
+                <p>My working tenure has provided invaluable insight into developing creative and innovative <br>
+                    web Applications for FinTech, Food and Media industries with customer centric design.
                 </p>
                 <br>
                 <p>Find out more about me here. </p>
@@ -194,13 +193,13 @@
                     <li>
                         <div class="li1">Website</div>
                         <div class="li2"> &nbsp;:</div>
-                        <div class="li3"><a href="https://mohitpatil.herokuapp.com/">https://mohitpatil.herokuapp.com/</a></div>
+                        <div class="li3"><a href="https://mohitpatil.herokuapp.com/" target="_blank">https://mohitpatil.herokuapp.com/</a></div>
                         <div class="clearfix"></div>
                     </li>
                     <li>
                         <div class="li1">Location </div>
                         <div class="li2"> &nbsp; &nbsp;:</div>
-                        <div class="li3">Fremont, CA, 94538</div>
+                        <div class="li3"><a href="https://www.google.com/maps/@37.5329792,-121.9989598,12z" target="_blank">&nbsp;Fremont, CA, 94538</a></div>
                         <div class="clearfix"></div>
                     </li>
                 </ul>
@@ -315,38 +314,59 @@
         <div class="col-md-9 col-sm-9 explain">
             <p class="project-name">Project : Status Portal</p>
             <ul class="resume-details container">
-                <li>Developed views and templates with Angular Js and Bootstrap to create a user-friendly website interface.</li>
-                <li>Worked with the team using Angular Formly, Bootstrap UI and HTML5 to Create Webpages.</li>
-                <li>Leveraged CSS Bootstrap for the development of Web applications.</li>
+                <li>Developed views and templates with Angularjs and Bootstrap to create a user-friendly website interface.</li>
+                <li>Created templates using HTML & Less CSS and developed components using AngularJS.</li>
+                <li>Used AngularJS controllers, directives, components, factory and service resources, routings and events.</li>
                 <li>Using Grunt to build the project and build different Js files and LESS files.</li>
-                <li>Using Angular Js and apex classes to fetch data from Salesforce using AJAX calls.</li>
+                <li>Using Angularjs and apex classes to post and Fetch data from Salesforce using AJAX calls.</li>
+                <li>Developed Responsive Web Design and cross platform server side applications using Bootstrap framework to
+                        <br>achieve scalability in real-time web applications.</li>
+                <li>Implementing Security for Two Factor authentication using Email and Twilio for Mobile.</li>
+                <li>Used Agile software methodology for the project implementation with day to day updates through scrum.</li>
                 <li>In final Sprint doing bug fixes and Completing tasks based on Jira Priority.</li>
-                <li>Implementing Security for Two Factor authentication using Email and Twillo for Mobile.</li>
+                </li>
             </ul>
 
 
             <p class="project-name">Project : Digital Sales Platform</p>
             <ul class="resume-details container">
-                <li>Developing Web Application for Terafina Inc</li>
-                <li>Worked in Agile Development Cycle</li>
-                <li>Developed Agent and Customer pages using Angular js, Angular Formly and JSON</li>
-                <li>Developed and maintained Data Driven Application using HTML5/CSS3/jQuery based templates and<br>
-                    integrated With Salesforce (Visual Force pages w/associated Apex controllers)
-                </li>
-                <li>Modularized CSS code using LESS</li>
-                <li>Created SPA using Angular.js and Angular Formly Framework and Bootstrap-based responsive design;<br>
-                    helped team in integrating with Salesforce backend using JavaScript Remoting
-                </li>
-                <li>Have Fixing Bug in the current application based on Jira Priority.</li>
+                <li>Developed and maintained Data Driven Application using  HTML5/CSS3/Javascript  based templates and<br>
+                    integrated With  Salesforce  (Visualforce pages were associated Apex controllers and Field Logic).</li>
+                <li>Created SPA using Angularjs and Angular Formly Framework and Bootstrap-based responsive design,<br>
+                    helped team in integrating with Salesforce backend using JavaScript Remoting.</li>
+                <li>Used  Grunt  task runner on the client side along with Angularjs to perform unit testing, minification <br>
+                    and compiling whenever a change in a file is made.</li>
+                <li>Implemented AngularJS Services to bind the data and provide access to the data on the server.</li>
+                <li>Hands-on experience of  AngularJS  Model-View-Controller ( MVC ) pattern in designing and developing<br>
+                    modern Single Page Application and Develop reusable directives.</li>
+                <li>Experienced on  Node Package Manager  (NPM) to manage the modules.</li>
+                <li>Implemented Client side validations using  AngularJS  Custom Form Validation and server <br> side validations
+                        using Data Annotation.</li>
+                <li>Worked on CSS properties, Pseudo Classes, Pseudo Elements and CSS Behaviors in CSS.</li>
             </ul>
 
 
             <p class="project-name">Project : Employee Onboard </p>
             <ul class="resume-details container">
-                <li>Worked on Angular JS, HTML, CSS, Bootstrap UI and JavaScript for front End</li>
-                <li>Designed and developed Node.js based JavaScript application</li>
+                <li>Worked on Angularjs and Javascript, HTML, CSS, Bootstrap UI for front End.</li>
                 <li>Used Best practices to make it Responsive and functional on Mobile Devices.</li>
-                <li>Integrated with different API’s like LinkedIn to Fetch Data and save it into Portal for Future Employees.</li>
+                <li>Worked on making AJAX calls to connect the database using restful web-services and worked<br>
+                    on integrating the middleware to the front end.</li>
+                <li>Used Angular Js and Handlebars.js framework where data from backend is stored in model <br>
+                    and populated it to UI.</li>
+                <li>Developed the custom directives and apps for easy use of the packages and implementation of JSON.</li>
+                <li>Integrated with different API’s like LinkedIn to Fetch Data and save it into Portal for <br>
+                    Future Employees.
+                </li>
+            </ul>
+
+            <p class="project-name">Project : Employee Training Portal </p>
+            <ul class="resume-details container">
+                <li>Developed Webpage wireframes for Customer Portal.</li>
+                <li>Developed views and templates with Jquery and Bootstrap to create a user-friendly website interface.</li>
+                <li>Worked with the team using Jquery, Bootstrap UI and HTML5 to Create Webpages.</li>
+                <li>Proficient in CSS, LESS for dynamic styling of application and applying custom styles, <br>
+                    tooltips and overlays.</li>
             </ul>
         </div>
     </div>
@@ -355,20 +375,22 @@
     <div class="container col-md-12 explain">
         <div class="col-md-3 col-sm-3">
             <h4 class="company-name"><strong>Fiskkit</strong> <br /> ( <i class="fa fa-map-marker"  aria-hidden="true"> San Francisco, CA</i> )</h4>
-            <h5>June 2016 - July 2016</h5>
+            <h5>June 2016 - Aug 2016</h5>
             <h5 class="role">Web Developer</h5>
         </div>
 
         <div class="col-md-9 col-sm-9">
             <ul class="resume-details container">
                 <li>Involved in Creating Application used HTML, CSS, AngularJS, jQuery and Bootstrap to<br>
-                    achieve user interaction
-                </li>
+                    achieve user interaction</li>
                 <li>Created organization signup pages, converting the UI Designs to Webpages using HTML, Bootstrap<br>
                     and Less and Angular.js</li>
+                <li>Integrated user-facing elements developed in front-end with server side logic using  Node js .</li>
+                <li>Achieved user authentication and authorization between multiple forms, servers, and environments.</li>
                 <li>Integrated user-facing elements developed in front-end with server side logic using Node js</li>
-                <li>Achieved user authentication and authorization between multiple forms, servers, and environments</li>
-                <li>Worked in PHP for some backend tasks and database creation and Integrations</li>
+                <li>Created organization signup pages, converting the UI Designs to Webpages using  HTML, Bootstrap <br>
+                    and  Less  and  Angular.js </li>
+                <li>Worked in  PHP  for backend connection to  database  and Integrations with  MySQL  Database.</li>
             </ul>
         </div>
     </div>
@@ -377,16 +399,18 @@
     <div class="container col-md-12 explain" >
         <div class="col-md-3 col-sm-3">
             <h4 class="company-name"><strong>Garcon LLC.</strong> <br/> ( <i class="fa fa-map-marker"  aria-hidden="true"> San Jose, CA</i> ) </h4>
-            <h5>May 2016 - June 2016</h5>
+            <h5>April 2016 - June 2016</h5>
             <h5 class="role">UI/UX Developer</h5>
         </div>
 
         <div class="col-md-9 col-sm-9">
             <ul class="resume-details container">
-                <li>Created mockups and wireframes for the Mobile App</li>
-                <li>Used HTML, CSS, AngularJS, jQuery and Bootstrap to<br>
-                    Design introductionary pages for Garcon.</li>
-                 <li>Used Sketch and Adobe Illustrator to Design mobile and Website Screens.</li>
+                <li>Created SPA page using HTML, Bootstrap and CSS for Prelaunch and Hiring Purpose.</li>
+                <li>Optimized Garcon website and Mobile application with responsive design to enhance user experience.</li>
+                <li>Designed Mobile Application for  IOS  and  Android  prototype using  Sketch, Invision,<br>
+                    Adobe illustrator & Photoshop .</li>
+                <li>Established visual/interaction style guides for Garcon Mobile App, including  grid systems, <br>
+                    typography, colors and  icons  for designers to use throughout development.</li>
             </ul>
         </div>
     </div>
