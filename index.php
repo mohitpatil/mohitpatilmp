@@ -312,6 +312,26 @@
         </div>
 
         <div class="col-md-9 col-sm-9 explain">
+            <p class="project-name">Project : Digital Sales Platform</p>
+            <ul class="resume-details container">
+                <li>Developed and maintained Data Driven Application using  HTML5/CSS3/Javascript  based templates and<br>
+                    integrated With  Salesforce  (Visualforce pages were associated Apex controllers and Field Logic).</li>
+                <li>Created SPA using Angularjs and Angular Formly Framework and Bootstrap-based responsive design,<br>
+                    helped team in integrating with Salesforce backend using JavaScript Remoting.</li>
+                <li>Used  Grunt  task runner on the client side along with Angularjs to perform unit testing, minification <br>
+                    and compiling whenever a change in a file is made.</li>
+                <li>Implemented AngularJS Services to bind the data and provide access to the data on the server.</li>
+                <li>Hands-on experience of  AngularJS  Model-View-Controller ( MVC ) pattern in designing and developing<br>
+                    modern Single Page Application and Develop reusable directives.</li>
+                <li>Experienced on  Node Package Manager  (NPM) to manage the modules.</li>
+                <li>Implemented Client side validations using  AngularJS  Custom Form Validation and server <br> side validations
+                    using Data Annotation.</li>
+                <li>Worked on CSS properties, Pseudo Classes, Pseudo Elements and CSS Behaviors in CSS.</li>
+                <li>Managing Offshore implementation teams</li>
+                <li>Creating different field objects and Logics on Salesforce with hide expressions.</li>
+            </ul>
+
+
             <p class="project-name">Project : Status Portal</p>
             <ul class="resume-details container">
                 <li>Developed views and templates with Angularjs and Bootstrap to create a user-friendly website interface.</li>
@@ -327,26 +347,7 @@
                 </li>
             </ul>
 
-
-            <p class="project-name">Project : Digital Sales Platform</p>
-            <ul class="resume-details container">
-                <li>Developed and maintained Data Driven Application using  HTML5/CSS3/Javascript  based templates and<br>
-                    integrated With  Salesforce  (Visualforce pages were associated Apex controllers and Field Logic).</li>
-                <li>Created SPA using Angularjs and Angular Formly Framework and Bootstrap-based responsive design,<br>
-                    helped team in integrating with Salesforce backend using JavaScript Remoting.</li>
-                <li>Used  Grunt  task runner on the client side along with Angularjs to perform unit testing, minification <br>
-                    and compiling whenever a change in a file is made.</li>
-                <li>Implemented AngularJS Services to bind the data and provide access to the data on the server.</li>
-                <li>Hands-on experience of  AngularJS  Model-View-Controller ( MVC ) pattern in designing and developing<br>
-                    modern Single Page Application and Develop reusable directives.</li>
-                <li>Experienced on  Node Package Manager  (NPM) to manage the modules.</li>
-                <li>Implemented Client side validations using  AngularJS  Custom Form Validation and server <br> side validations
-                        using Data Annotation.</li>
-                <li>Worked on CSS properties, Pseudo Classes, Pseudo Elements and CSS Behaviors in CSS.</li>
-            </ul>
-
-
-            <p class="project-name">Project : Employee Onboard </p>
+            <!--  <p class="project-name">Project : Employee Onboard </p>
             <ul class="resume-details container">
                 <li>Worked on Angularjs and Javascript, HTML, CSS, Bootstrap UI for front End.</li>
                 <li>Used Best practices to make it Responsive and functional on Mobile Devices.</li>
@@ -358,7 +359,21 @@
                 <li>Integrated with different API’s like LinkedIn to Fetch Data and save it into Portal for <br>
                     Future Employees.
                 </li>
+            </ul>-->
+
+            <p class="project-name">Project : Member Servicing Platform </p>
+            <ul class="resume-details container">
+                <li>Modernized the web interface and integrated Bootstrap framework and CSS across the application</li>
+                <li>Developed single page application using HTML, Angular and Bootstrap-based responsive design,
+                    providing front end validations using core angularjs.</li>
+                <li>Working on Client location, taking ownership to fix the bugs and get the project up and running.</li>
+                <li>Responsible for checking cross browser compatibility and hence worked on different browsers like
+                    safari, Internet explorer, Firefox and Google chrome.</li>
+                <li>Knowledge of Salesforce Custom Objects and Custom fields.</li>
+                <li>Experience in Code deployment using Sublime and Maven.</li>
+                <li>Developed reusable components with Angularjs custom directives.</li>
             </ul>
+
 
             <p class="project-name">Project : Employee Training Portal </p>
             <ul class="resume-details container">
@@ -402,7 +417,6 @@
             <h5>April 2016 - June 2016</h5>
             <h5 class="role">UI/UX Developer</h5>
         </div>
-
         <div class="col-md-9 col-sm-9">
             <ul class="resume-details container">
                 <li>Created SPA page using HTML, Bootstrap and CSS for Prelaunch and Hiring Purpose.</li>
@@ -416,6 +430,7 @@
     </div>
 
     <hr />
+<!--
     <div class="container col-md-12 explain" >
         <div class="col-md-3 col-sm-3">
             <h4 class="company-name"><strong>Amshoft Inc.</strong> <br/> ( <i class="fa fa-map-marker"  aria-hidden="true"> Pune, India</i> ) </h4>
@@ -436,6 +451,7 @@
             </ul>
         </div>
     </div>
+-->
 
     <h4 class="section-heading2" id="education">EDUCATION</h4>
     <hr />
