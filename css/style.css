@@ -16,7 +16,7 @@ body a {
 }
 
 .formFooter {
-	display: none;
+	display: none !important;
 }
 
 body a:hover {
