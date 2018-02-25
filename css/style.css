@@ -697,14 +697,14 @@ ul#myList {
 	}
 
 	.aboutme-grid-1 h3 {
-		width: 31%;
+		width: 35%;
 	}
 	.aboutme-grid-3 h3 {
 		width: 30%;
 	}
 	.aboutme-grid-2-image {
-		width: 70%;
-		top: -30px;
+		width: 80%;
+		top: 30px;
 	}
 	.aboutme-grid-3 ul li .li3 {
 		padding-top: 0;
@@ -738,7 +738,7 @@ ul#myList {
 		width: 33%;
 	}
 	.aboutme-grid-3 h3 {
-		width: 31%;
+		width: 35%;
 	}
 	.aboutme-grid-1 {
 		padding-right: 0;
