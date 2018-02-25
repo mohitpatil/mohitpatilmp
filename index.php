@@ -191,7 +191,7 @@
                 </p>
                 <p>
                     When not online, Mohit can be found in San Francisco Bay Area with his Friends — hiking out, 
-                    trying to capture some exceptional views of Bay, experimenting in cooking, or playing FIFA.
+                    trying to capture some exceptional views of Bay, driving around california, or playing FIFA.
                 </p>
                 <br>
             </div>
