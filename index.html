@@ -336,7 +336,7 @@
     <div class="container col-md-12">
         <div class="col-md-3 col-sm-3">
             <h4 class="company-name"><strong>Terafina Inc.</strong><br> ( <i class="fa fa-map-marker"  aria-hidden="true"> San Jose, CA</i> )</h4>
-            <h5>August 2016 - Present</h5>
+            <h5>May 2016 - Present</h5>
             <h5 class="role">Front End Developer</h5>
         </div>
 
@@ -376,20 +376,6 @@
                 </li>
             </ul>
 
-            <!--  <p class="project-name">Project : Employee Onboard </p>
-            <ul class="resume-details container">
-                <li>Worked on Angularjs and Javascript, HTML, CSS, Bootstrap UI for front End.</li>
-                <li>Used Best practices to make it Responsive and functional on Mobile Devices.</li>
-                <li>Worked on making AJAX calls to connect the database using restful web-services and worked<br>
-                    on integrating the middleware to the front end.</li>
-                <li>Used Angular Js and Handlebars.js framework where data from backend is stored in model <br>
-                    and populated it to UI.</li>
-                <li>Developed the custom directives and apps for easy use of the packages and implementation of JSON.</li>
-                <li>Integrated with different API’s like LinkedIn to Fetch Data and save it into Portal for <br>
-                    Future Employees.
-                </li>
-            </ul>-->
-
             <p class="project-name">Project : Member Servicing Platform </p>
             <ul class="resume-details container">
                 <li>Modernized the web interface and integrated Bootstrap framework and CSS across the application</li>
@@ -419,7 +405,7 @@
     <div class="container col-md-12 explain">
         <div class="col-md-3 col-sm-3">
             <h4 class="company-name"><strong>Fiskkit</strong> <br /> ( <i class="fa fa-map-marker"  aria-hidden="true"> San Francisco, CA</i> )</h4>
-            <h5>June 2016 - Aug 2016</h5>
+            <h5>Mar 2016 - May 2016</h5>
             <h5 class="role">Web Developer</h5>
         </div>
 
@@ -443,7 +429,7 @@
     <div class="container col-md-12 explain" >
         <div class="col-md-3 col-sm-3">
             <h4 class="company-name"><strong>Garcon LLC.</strong> <br/> ( <i class="fa fa-map-marker"  aria-hidden="true"> San Jose, CA</i> ) </h4>
-            <h5>April 2016 - June 2016</h5>
+            <h5>Jan 2016 - Mar 2016</h5>
             <h5 class="role">UI/UX Developer</h5>
         </div>
         <div class="col-md-9 col-sm-9">
