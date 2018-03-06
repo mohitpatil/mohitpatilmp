@@ -54,14 +54,14 @@
 </div>-->
 
 <div class="header" id="agilehome">
-    <img src="images/code.jpg" alt="Main Header Image">
+    <img src="images/back1.jpeg" alt="Main Header Image">
 
     <h1><span>Hi, I'm Mohit.</span></h1>
     <h2>
     <div class="type-wrap">
         <div id="typed-strings">
             <span>I'm Designer / Web Developer</strong></span>
-            <p>I build websites, Web App's,</p>
+            <p>I like to build websites, Web App's,</p>
             <p>and User Interfaces.</p>
             <p href="#aboutme">Check it out!</p>
         </div>

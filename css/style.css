@@ -62,14 +62,11 @@ a:focus, a:hover {
 	left: 0;
 	width: 50%;
 	margin: 0 auto;
-	padding: 75px 0;
+	padding: 45px 0;
 	font-size: 75px;
 	letter-spacing: 3px;
 	font-weight: 600;
 	color: #d43f3a;
-	background-color: #607D8B;
-	background: rgba(0,0,0,0.7);
-	border: 5px solid #d43f3a;
 	border-radius: 15px;
 }
 
@@ -85,9 +82,6 @@ a:focus, a:hover {
 	letter-spacing: 2px;
 	font-weight: 700;
 	color: #d43f3a;
-	background-color: #607D8B;
-	background: rgba(0,0,0,0.7);
-	border: 5px solid #d43f3a;
 	border-radius: 15px;
 }
 
@@ -605,7 +599,7 @@ ul#myList {
 
 @media screen and (max-width: 1920px) {
 	.header h1 {
-		top: 10%;
+		top: 5%;
 	}
 	.header h2 {
 		top: 45%;
@@ -640,7 +634,7 @@ ul#myList {
 
 @media screen and (max-width: 1680px) {
 	.header h1 {
-		top: 10%;
+		top: 5%;
 	}
 	.header h2 {
 		top: 45%;
@@ -665,7 +659,7 @@ ul#myList {
 
 @media screen and (max-width: 1600px) {
 	.header h1 {
-		top: 10%;
+		top: 5%;
 	}
 	.header h2 {
 		top: 45%;
@@ -687,7 +681,7 @@ ul#myList {
 
 @media screen and (max-width: 1440px) {
 	.header h1 {
-		top: 10%;
+		top: 5%;
 	}
 	.header h2 {
 		top: 45%;
@@ -722,7 +716,7 @@ ul#myList {
 
 @media screen and (max-width: 1366px) {
 	.header h1 {
-		top: 10%;
+		top: 5%;
 	}
 	.header h2 {
 		top: 45%;
@@ -753,7 +747,7 @@ ul#myList {
 
 @media screen and (max-width: 1280px) {
 	.header h1 {
-		top: 10%;
+		top: 5%;
 		line-height: 20px;
 	}
 	.header h2 {
@@ -785,7 +779,7 @@ ul#myList {
 		width: 75%;
 		font-size: 60px;
 		padding: 50px 0;
-		top: 10%;
+		top: 5%;
 	}
 	.header h2 {
 		top: 45%;
@@ -850,7 +844,7 @@ ul#myList {
 
 @media screen and (max-width: 1024px) {
 	.header h1 {
-		top: 10%;
+		top: 5%;
 	}
 	.header h2 {
 		top: 45%;
@@ -874,7 +868,7 @@ ul#myList {
 
 @media screen and (max-width: 991px) {
 	.header h1 {
-		top: 10%;
+		top: 5%;
 	}
 	.header h2 {
 		top: 45%;
@@ -954,7 +948,7 @@ ul#myList {
 		width: 57%;
 	}
 	.header h1 {
-		top: 10%;
+		top: 5%;
 	}
 	.header h2 {
 		top: 45%;
@@ -966,7 +960,7 @@ ul#myList {
 
 @media screen and (max-width: 900px) {
 	.header h1 {
-		top: 10%;
+		top: 5%;
 	}
 	.header h2 {
 		top: 45%;
@@ -1024,7 +1018,7 @@ ul#myList {
 
 @media screen and (max-width: 853px) {
 	.header h1 {
-		top: 10%;
+		top: 5%;
 	}
 	.header h2 {
 		top: 45%;
@@ -1057,7 +1051,7 @@ ul#myList {
 
 @media screen and (max-width: 800px) {
 	.header h1 {
-		top: 10%;
+		top: 5%;
 	}
 	.header h2 {
 		top: 45%;
@@ -1099,7 +1093,7 @@ ul#myList {
 
 @media screen and (max-width: 768px) {
 	.header h1 {
-		top: 10%;
+		top: 5%;
 	}
 	.header h2 {
 		top: 45%;
@@ -1278,7 +1272,7 @@ ul#myList {
 @media screen and (max-width: 640px) {
 	.header h1 {
 		width: 74%;
-        top: 10%
+        top: 5%
 	}
 	.header h2 {
 		top: 45%;
@@ -1349,7 +1343,7 @@ ul#myList {
 
 @media screen and (max-width: 603px) {
 	.header h1{
-        top:10%;
+        top:5%;
     }
     .header h2{
         top: 45%;
@@ -1391,7 +1385,7 @@ ul#myList {
 @media screen and (max-width: 600px) {
 	.header h1 {
 		width: 77%;
-        top:10%
+        top:5%
 	}
 	.navigation {
 		margin-left: 10px;
@@ -1433,7 +1427,7 @@ ul#myList {
 @media screen and (max-width: 568px) {
 	.header h1 {
 		width: 80%;
-        top:10%;
+        top:5%;
 	}
 	.header h2 {
 		width: 45%;
@@ -1498,7 +1492,7 @@ ul#myList {
 		font-size: 30px;
 		padding: 25px 0;
 		width: 77%;
-        top:10%;
+        top:5%;
 	}
     .navigation{
         top:60%;
@@ -1544,7 +1538,7 @@ ul#myList {
 	.header h1 {
 		padding: 20px 0;
 		width: 85%;
-        top: 10%;
+        top: 5%;
 	}
     .navigation{
         top:60%;
