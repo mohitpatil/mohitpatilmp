@@ -60,10 +60,10 @@
     <h2>
     <div class="type-wrap">
         <div id="typed-strings">
-            <span>I'm Designer / Web Developer</strong></span>
-            <p>I like to build websites, Web App's,</p>
+            <span>I'm a Web Developer.</strong></span>
+            <p>I like to build Websites, Web app's,</p> 
             <p>and User Interfaces.</p>
-            <p href="#aboutme">Check it out!</p>
+            <p href="#aboutme">Check it out. <i class="fa fa-angle-down"></i></p>
         </div>
         <span id="typed" style="white-space:pre;"></span>
     </div>
@@ -102,7 +102,7 @@
                     <div class="ch-item ch-img-3">
                         <div class="ch-info-wrap">
                             <div class="ch-info">
-                                <div class="ch-info-front ch-img-1"><i class="fa fa-file-text-o" aria-hidden="true"></i>
+                                <div class="ch-info-front ch-img-1"><i class="fa fa-briefcase" aria-hidden="true"></i>
                                 </div>
                                 <div class="ch-info-back">
                                     <h3><a class="scroll" href="#resume">WORK</a></h3>
@@ -115,7 +115,7 @@
                     <div class="ch-item ch-img-4">
                         <div class="ch-info-wrap">
                             <div class="ch-info">
-                                <div class="ch-info-front ch-img-1"><i class="fa fa-briefcase" aria-hidden="true"></i>
+                                <div class="ch-info-front ch-img-1"><i class="fa fa-file-text-o" aria-hidden="true"></i>
                                 </div>
                                 <div class="ch-info-back">
                                     <h3><a class="scroll small-font" href="#education">EDUCATION</a></h3>
@@ -173,7 +173,7 @@
                     web Applications for FinTech, Food and Media industries with customer centric design.
                 </p>
                 <br>-->
-                <h3>Who am I?</h3>
+                <h3>Who am i?</h3>
                 <p><strong>Mohit Patil is a design-oriented front-end developer. He strives to build immersive and beautiful
                     web applications through carefully crafted code and user-centric design.</strong>
                 </p>
